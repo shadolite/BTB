@@ -1,0 +1,109 @@
+{
+  "heTitle": "ספר הישר (מדרש)",
+  "enTitle": "Sefer HaYashar (midrash)",
+  "key": "Sefer HaYashar (midrash)",
+  "books": [
+    {
+      "heTitle": "הקדמה",
+      "enTitle": "Introduction",
+      "link": "Intro"
+    },
+    {
+      "heTitle": "ספר בראשית",
+      "enTitle": "Book of Genesis",
+      "link": "BoGen",
+      "books": [
+        {
+          "heTitle": "בראשית",
+          "enTitle": "Bereshit",
+          "link": "Brsht"
+        },
+        {
+          "heTitle": "נח",
+          "enTitle": "Noach",
+          "link": "Nch"
+        },
+        {
+          "heTitle": "לך לך",
+          "enTitle": "Lech Lecha",
+          "link": "Lch"
+        },
+        {
+          "heTitle": "וירא",
+          "enTitle": "Vayera",
+          "link": "Vyr"
+        },
+        {
+          "heTitle": "חיי שרה",
+          "enTitle": "Chayei Sara",
+          "link": "Chy"
+        },
+        {
+          "heTitle": "תולדות",
+          "enTitle": "Toldot",
+          "link": "Tld"
+        },
+        {
+          "heTitle": "ויצא",
+          "enTitle": "Vayetzei",
+          "link": "Vyt"
+        },
+        {
+          "heTitle": "וישלח",
+          "enTitle": "Vayishlach",
+          "link": "Vyshl"
+        },
+        {
+          "heTitle": "וישב",
+          "enTitle": "Vayeshev",
+          "link": "Vyshv"
+        },
+        {
+          "heTitle": "מקץ",
+          "enTitle": "Miketz",
+          "link": "Mktz"
+        },
+        {
+          "heTitle": "ויגש",
+          "enTitle": "Vayigash",
+          "link": "Vyg"
+        },
+        {
+          "heTitle": "ויחי",
+          "enTitle": "Vayechi",
+          "link": "Vych"
+        }
+      ]
+    },
+    {
+      "heTitle": "ספר שמות",
+      "enTitle": "Book of Exodus",
+      "link": "BoEx"
+    },
+    {
+      "heTitle": "ספר ויקרא",
+      "enTitle": "Book of Leviticus",
+      "link": "BoLev"
+    },
+    {
+      "heTitle": "ספר במדבר",
+      "enTitle": "Book of Numbers",
+      "link": "BoNum"
+    },
+    {
+      "heTitle": "ספר דברים",
+      "enTitle": "Book of Deuteronomy",
+      "link": "BoDeu"
+    },
+    {
+      "heTitle": "ספר יהושע",
+      "enTitle": "Book of Joshua",
+      "link": "BoJos"
+    },
+    {
+      "heTitle": "ספר שופטים",
+      "enTitle": "Book of Judges",
+      "link": "BoJud"
+    }
+  ]
+}
