@@ -1,0 +1,103 @@
+---
+title: Exodus 36:8
+type: Verse
+kjv: "And every wise hearted man among them that wrought the work of the tabernacle made ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work made he them."
+bsb: "All the skilled craftsmen among the workmen made the ten curtains for the tabernacle. They were made of finely spun linen, as well as blue, purple, and scarlet yarn, with cherubim skillfully worked into them."
+hebrew: "וַיַּעֲשׂ֨וּ כָל־ חֲכַם־ לֵ֜ב בְּעֹשֵׂ֧י הַמְּלָאכָ֛ה אֶת־ הַמִּשְׁכָּ֖ן עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מָשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב עָשָׂ֥ה אֹתָֽם׃"
+pericope: "[[Exod.36.8 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H3820A]]"
+- "[[H9003]]"
+- "[[H6213J]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H0853]]"
+- "[[H4908]]"
+- "[[H6235]]"
+- "[[H3407]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H9002]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H3742]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 36:8**<big><big>[[Exod.36.8 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And every wise hearted man among them that wrought the work of the tabernacle made ten curtains [of] fine twined linen, and blue, and purple, and scarlet: [with] cherubims of cunning work made he them.
+<small><sub>**BSB:**</sub></small>
+All the skilled craftsmen among the workmen made the ten curtains for the tabernacle. They were made of finely spun linen, as well as blue, purple, and scarlet yarn, with cherubim skillfully worked into them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּעֲשׂ֨וּ]] [[H3605\|כָל]][[H9014\|־]] [[H2450\|חֲכַם]][[H9014\|־]] [[H3820A\|לֵ֜ב]] [[H9003\|בְּ]][[H6213J\|עֹשֵׂ֧י]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H6235\|עֶ֣שֶׂר]] [[H3407\|יְרִיעֹ֑ת]] [[H8336B\|שֵׁ֣שׁ]] [[H7806\|מָשְׁזָ֗ר]] [[H9002\|וּ]][[H8504\|תְכֵ֤לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָן֙]] [[H9002\|וְ]][[H8438B\|תוֹלַ֣עַת]] [[H8144\|שָׁנִ֔י]] [[H3742\|כְּרֻבִ֛ים]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2803G\|חֹשֵׁ֖ב]] [[H6213A\|עָשָׂ֥ה]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic COLORS|COLORS]] • [[topic CURTAINS|CURTAINS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.7|<< Exodus 36:7]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.9|Exodus 36:9 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּעֲשׂ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [person] skillful of  |**<big>&#8207;[[H2450\|חֲכַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.kham-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵ֜ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| among [those who] did  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6213J\|עֹשֵׂ֧י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> the work  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4399\|מְּלָאכָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the tabernacle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4908\|מִּשְׁכָּ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ten  |**<big>&#8207;[[H6235\|עֶ֣שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| curtains  |**<big>&#8207;[[H3407\|יְרִיעֹ֑ת]]&#8207; </big>**| ye.ri.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine linen  |**<big>&#8207;[[H8336B\|שֵׁ֣שׁ]]&#8207; </big>**| shesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| twisted  |**<big>&#8207;[[H7806\|מָשְׁזָ֗ר]]&#8207; </big>**| ma.she.Zar<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and violet stuff  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8504\|תְכֵ֤לֶת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.Khe.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and purple  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0713\|אַרְגָּמָן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ga.Man<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and scarlet stuff of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8438B\|תוֹלַ֣עַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.La.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| scarlet  |**<big>&#8207;[[H8144\|שָׁנִ֔י]]&#8207; </big>**| sha.Ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| cherubim  |**<big>&#8207;[[H3742\|כְּרֻבִ֛ים]]&#8207; </big>**| ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] work of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֥ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a skillful worker  |**<big>&#8207;[[H2803G\|חֹשֵׁ֖ב]]&#8207; </big>**| cho.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  |**<big>&#8207;[[H6213A\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.7|<< Exodus 36:7]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.9|Exodus 36:9 >>]]</td></tr></table>
+
+

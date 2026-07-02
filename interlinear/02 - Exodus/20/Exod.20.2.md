@@ -1,0 +1,80 @@
+---
+title: Exodus 20:2
+type: Verse
+kjv: "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+bsb: "“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery."
+hebrew: "אָֽנֹכִ֖י֙ יְהוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִיֽ֑ם׃"
+pericope: "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[H0595]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H1004B]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L(p)
+- L
+- L(b+p)
+---
+
+**Exodus 20:2**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+<small><sub>**BSB:**</sub></small>
+“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָֽנֹכִ֖י֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֧ר]] [[H3318H\|הוֹצֵאתִ֛י]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9006\|מִ]][[H1004B\|בֵּ֣֥ית]] [[H5650\|עֲבָדִיֽ֑ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECALOGUE|DECALOGUE]] • [[topic GOD|GOD]] • [[topic LAW|LAW]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.1|<< Exodus 20:1]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.3|Exodus 20:3 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| I  |**<big>&#8207;[[H0595\|אָֽנֹכִ֖י֙]]&#8207; </big>**[^1] | 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֑֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**[^2] | 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֧ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I brought out you  |**<big>&#8207;[[H3318H\|הוֹצֵאתִ֛י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ho.tze.Ti.<small><sup>[[HVhp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֖יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from a house of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1004B\|בֵּ֣֥ית]]&#8207; </big>**[^3] | mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| slaves  |**<big>&#8207;[[H5650\|עֲבָדִיֽ֑ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (biblia + alt.puncuation)">L(b+p)</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.1|<< Exodus 20:1]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.3|Exodus 20:3 >>]]</td></tr></table>
+
+[^1]: P spelled: **<span class="ashebrew"><big>אָֽנֹכִי֙</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>אֱלֹהֶ֔יךָ</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>מִבֵּ֣ית</big></span>**
+[^4]: B spelled: **<span class="ashebrew"><big>עֲבָדִ֑ים\׃</big></span>**
+

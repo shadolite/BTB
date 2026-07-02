@@ -1,0 +1,96 @@
+---
+title: Exodus 3:22
+type: Verse
+kjv: "But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians."
+bsb: "Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing, and you will put them on your sons and daughters. So you will plunder the Egyptians.”"
+hebrew: "וְשָׁאֲלָ֨ה אִשָּׁ֤ה מִשְּׁכֶנְתָּהּ֙ וּמִגָּרַ֣ת בֵּיתָ֔הּ כְּלֵי־ כֶ֛סֶף וּכְלֵ֥י זָהָ֖ב וּשְׂמָלֹ֑ת וְשַׂמְתֶּ֗ם עַל־ בְּנֵיכֶם֙ וְעַל־ בְּנֹ֣תֵיכֶ֔ם וְנִצַּלְתֶּ֖ם אֶת־ מִצְרָֽיִם׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEWELS|JEWELS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H0802G]]"
+- "[[H9006]]"
+- "[[H7934]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1481A]]"
+- "[[H1004B]]"
+- "[[H3627]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H8071]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H1323G]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H4713]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 3:22**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put [them] upon your sons, and upon your daughters; and ye shall spoil the Egyptians.
+<small><sub>**BSB:**</sub></small>
+Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing, and you will put them on your sons and daughters. So you will plunder the Egyptians.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7592\|שָׁאֲלָ֨ה]] [[H0802G\|אִשָּׁ֤ה]] [[H9006\|מִ]][[H7934\|שְּׁכֶנְתָּ]][[H9024\|הּ֙]] [[H9002\|וּ]][[H9006\|מִ]][[H1481A\|גָּרַ֣ת]] [[H1004B\|בֵּיתָ֔]][[H9024\|הּ]] [[H3627\|כְּלֵי]][[H9014\|־]] [[H3701G\|כֶ֛סֶף]] [[H9002\|וּ]][[H3627\|כְלֵ֥י]] [[H2091\|זָהָ֖ב]] [[H9002\|וּ]][[H8071\|שְׂמָלֹ֑ת]] [[H9001\|וְ]][[H7760H\|שַׂמְתֶּ֗ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1323G\|בְּנֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5337\|נִצַּלְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4713\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic GOLD|GOLD]] • [[topic ISRAEL|ISRAEL]] • [[topic JEWELS|JEWELS]] • [[topic MOSES|MOSES]] • [[topic RELIGION|RELIGION]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.21|<< Exodus 3:21]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.1|Exodus 4:1 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and she will ask  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7592\|שָׁאֲלָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.'a.Lah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [each] woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֤ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [female] neighbor her  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7934\|שְּׁכֶנְתָּ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.khen.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [the] [female] sojourner of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1481A\|גָּרַ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ga.Rat<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| house her  |**<big>&#8207;[[H1004B\|בֵּיתָ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| bei.Ta<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| articles of  |**<big>&#8207;[[H3627\|כְּלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| silver  |**<big>&#8207;[[H3701G\|כֶ֛סֶף]]&#8207; </big>**| Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and articles of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3627\|כְלֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and clothes  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8071\|שְׂמָלֹ֑ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.ma.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will put [them]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760H\|שַׂמְתֶּ֗ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons your  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| be.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughters your  |**<big>&#8207;[[H1323G\|בְּנֹ֣תֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| be.No.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will plunder  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5337\|נִצַּלְתֶּ֖ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.tzal.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4713\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.21|<< Exodus 3:21]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.1|Exodus 4:1 >>]]</td></tr></table>
+
+

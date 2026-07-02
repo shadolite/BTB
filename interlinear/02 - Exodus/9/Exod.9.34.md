@@ -1,0 +1,96 @@
+---
+title: Exodus 9:34
+type: Verse
+kjv: "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants."
+bsb: "When Pharaoh saw that the rain and hail and thunder had ceased, he sinned again and hardened his heart—he and his officials."
+hebrew: "וַיַּ֣רְא פַּרְעֹ֗ה כִּֽי־ חָדַ֨ל הַמָּטָ֧ר וְהַבָּרָ֛ד וְהַקֹּלֹ֖ת וַיֹּ֣סֶף לַחֲטֹ֑א וַיַּכְבֵּ֥ד לִבּ֖וֹ ה֥וּא וַעֲבָדָֽיו׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic THUNDER|THUNDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H6547J]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2308]]"
+- "[[H9009]]"
+- "[[H4306]]"
+- "[[H9002]]"
+- "[[H1259]]"
+- "[[H6963I]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H2398]]"
+- "[[H3513H]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 9:34**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.
+<small><sub>**BSB:**</sub></small>
+When Pharaoh saw that the rain and hail and thunder had ceased, he sinned again and hardened his heart—he and his officials.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H6547J\|פַּרְעֹ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2308\|חָדַ֨ל]] [[H9009\|הַ]][[H4306\|מָּטָ֧ר]] [[H9002\|וְ]][[H9009\|הַ]][[H1259\|בָּרָ֛ד]] [[H9002\|וְ]][[H9009\|הַ]][[H6963I\|קֹּלֹ֖ת]] [[H9001\|וַ]][[H3254G\|יֹּ֣סֶף]] [[H9005\|לַ]][[H2398\|חֲטֹ֑א]] [[H9001\|וַ]][[H3513H\|יַּכְבֵּ֥ד]] [[H3820A\|לִבּ֖]][[H9023\|וֹ]] [[H1931\|ה֥וּא]] [[H9002\|וַ]][[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHARACTER|CHARACTER]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INSTABILITY|INSTABILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PLAGUE|PLAGUE]] • [[topic RAIN|RAIN]] • [[topic THUNDER|THUNDER]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.9.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.33|<< Exodus 9:33]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.35|Exodus 9:35 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 9:34** is...
+> $\quad$ referenced by: [[Rev.16.21|Rev 16:21]]
+
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֣רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹ֗ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it had ceased  |**<big>&#8207;[[H2308\|חָדַ֨ל]]&#8207; </big>**| cha.Dal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the rain  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4306\|מָּטָ֧ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the hail  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1259\|בָּרָ֛ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ba.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the thunder claps  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6963I\|קֹּלֹ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ko.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּ֣סֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sin  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2398\|חֲטֹ֑א]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> cha.To'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he made heavy  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3513H\|יַּכְבֵּ֥ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yakh.Bed<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart his  |**<big>&#8207;[[H3820A\|לִבּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and servants his  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5650\|עֲבָדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.33|<< Exodus 9:33]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.35|Exodus 9:35 >>]]</td></tr></table>
+
+

@@ -1,0 +1,86 @@
+---
+title: Exodus 4:19
+type: Verse
+kjv: "And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life."
+bsb: "Now the LORD had said to Moses in Midian, “Go back to Egypt, for all the men who sought to kill you are dead.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֤ה אֶל־ מֹשֶׁה֙ בְּמִדְיָ֔ן לֵ֖ךְ שֻׁ֣ב מִצְרָ֑יִם כִּי־ מֵ֙תוּ֙ כָּל־ הָ֣אֲנָשִׁ֔ים הַֽמְבַקְשִׁ֖ים אֶת־ נַפְשֶֽׁךָ׃"
+pericope: "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H4080H]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 4:19**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.
+<small><sub>**BSB:**</sub></small>
+Now the LORD had said to Moses in Midian, “Go back to Egypt, for all the men who sought to kill you are dead.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H9003\|בְּ]][[H4080H\|מִדְיָ֔ן]] [[H1980G\|לֵ֖ךְ]] [[H7725G\|שֻׁ֣ב]] [[H4714G\|מִצְרָ֑יִם]] [[H3588A\|כִּי]][[H9014\|־]] [[H4191\|מֵ֙תוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H0582\|אֲנָשִׁ֔ים]] [[H9009\|הַֽ]][[H1245\|מְבַקְשִׁ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.18|<< Exodus 4:18]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.20|Exodus 4:20 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Midian  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4080H\|מִדְיָ֔ן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mid.Yan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| go  |**<big>&#8207;[[H1980G\|לֵ֖ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| return  |**<big>&#8207;[[H7725G\|שֻׁ֣ב]]&#8207; </big>**| shuv<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have died  |**<big>&#8207;[[H4191\|מֵ֙תוּ֙]]&#8207; </big>**| me.tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  |**<big>&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who sought  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H1245\|מְבַקְשִׁ֖ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.vak.Shim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life your  |**<big>&#8207;[[H5315H\|נַפְשֶֽׁ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.She.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.18|<< Exodus 4:18]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.20|Exodus 4:20 >>]]</td></tr></table>
+
+

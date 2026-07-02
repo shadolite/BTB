@@ -1,0 +1,68 @@
+---
+title: Exodus 37:4
+type: Verse
+kjv: "And he made staves of shittim wood, and overlaid them with gold."
+bsb: "Then he made poles of acacia wood and overlaid them with gold."
+hebrew: "וַיַּ֥עַשׂ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃"
+pericope: "[[Exod.37.1 Constructing the Ark|Constructing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0905G]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H6823]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 37:4**<big><big>[[Exod.37.1 Constructing the Ark|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And he made staves [of] shittim wood, and overlaid them with gold.
+<small><sub>**BSB:**</sub></small>
+Then he made poles of acacia wood and overlaid them with gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H0905G\|בַּדֵּ֖י]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֑ים]] [[H9001\|וַ]][[H6823\|יְצַ֥ף]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic GOLD|GOLD]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.3|<< Exodus 37:3]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.5|Exodus 37:5 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poles of  |**<big>&#8207;[[H0905G\|בַּדֵּ֖י]]&#8207; </big>**| ba.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| wood\<s> of  |**<big>&#8207;[[H6086G\|עֲצֵ֣י]]&#8207; </big>**| 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| acacia  |**<big>&#8207;[[H7848\|שִׁטִּ֑ים]]&#8207; </big>**| shi.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he overlaid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6823\|יְצַ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzaf<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gold  |**<big>&#8207;[[H2091\|זָהָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.3|<< Exodus 37:3]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.5|Exodus 37:5 >>]]</td></tr></table>
+
+

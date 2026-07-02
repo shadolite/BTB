@@ -1,0 +1,85 @@
+---
+title: Exodus 39:39
+type: Verse
+kjv: "The brasen altar, and his grate of brass, his staves, and all his vessels, the laver and his foot,"
+bsb: "the bronze altar with its bronze grating, its poles, and all its utensils; the basin with its stand;"
+hebrew: "אֵ֣ת׀ מִזְבַּ֣ח הַנְּחֹ֗שֶׁת וְאֶת־ מִכְבַּ֤ר הַנְּחֹ֙שֶׁת֙ אֲשֶׁר־ ל֔וֹ אֶת־ בַּדָּ֖יו וְאֶת־ כָּל־ כֵּלָ֑יו אֶת־ הַכִּיֹּ֖ר וְאֶת־ כַּנּֽוֹ׃"
+pericope: "[[Exod.39.32 Moses Approves the Work|Moses Approves the Work]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5178A]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H4345]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0905G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H3595]]"
+- "[[H3653]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 39:39**<big><big>[[Exod.39.32 Moses Approves the Work|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+The brasen altar, and his grate of brass, his staves, and all his vessels, the laver and his foot,
+<small><sub>**BSB:**</sub></small>
+the bronze altar with its bronze grating, its poles, and all its utensils; the basin with its stand;
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵ֣ת]][[H9015\|׀]] [[H4196\|מִזְבַּ֣ח]] [[H9009\|הַ]][[H5178A\|נְּחֹ֗שֶׁת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4345\|מִכְבַּ֤ר]] [[H9009\|הַ]][[H5178A\|נְּחֹ֙שֶׁת֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0905G\|בַּדָּ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֑י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3595\|כִּיֹּ֖ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3653\|כַּנּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.39.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.38|<< Exodus 39:38]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.40|Exodus 39:40 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] altar of  |**<big>&#8207;[[H4196\|מִזְבַּ֣ח]]&#8207; </big>**| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> bronze  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5178A\|נְּחֹ֗שֶׁת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] grating of  |**<big>&#8207;[[H4345\|מִכְבַּ֤ר]]&#8207; </big>**| mikh.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> bronze  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5178A\|נְּחֹ֙שֶׁת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belonged] to \<the> it  |**<big>&#8207;[[H9005\|ל֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| poles its  |**<big>&#8207;[[H0905G\|בַּדָּ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ba.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| articles its  |**<big>&#8207;[[H3627\|כֵּלָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ke.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the laver  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3595\|כִּיֹּ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ki.Yor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| base its  |**<big>&#8207;[[H3653\|כַּנּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.38|<< Exodus 39:38]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.40|Exodus 39:40 >>]]</td></tr></table>
+
+

@@ -1,0 +1,109 @@
+---
+title: Exodus 19:16
+type: Verse
+kjv: "And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that was in the camp trembled."
+bsb: "On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled."
+hebrew: "וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙ עַל־ הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כָּל־ הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃"
+pericope: "[[Exod.19.16 The LORD Visits Sinai|The LORD Visits Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic THUNDER|THUNDER]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H1242]]"
+- "[[H6963I]]"
+- "[[H9002]]"
+- "[[H1300B]]"
+- "[[H6051]]"
+- "[[H3515]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2022G]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H2389]]"
+- "[[H3966]]"
+- "[[H2729]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 19:16**<big><big>[[Exod.19.16 The LORD Visits Sinai|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that [was] in the camp trembled.
+<small><sub>**BSB:**</sub></small>
+On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9003\|בַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֜י]] [[H9003\|בִּֽ]][[H1961\|הְיֹ֣ת]] [[H9009\|הַ]][[H1242\|בֹּ֗קֶר]] [[H9001\|וַ]][[H1961\|יְהִי֩]] [[H6963I\|קֹלֹ֨ת]] [[H9002\|וּ]][[H1300B\|בְרָקִ֜ים]] [[H9002\|וְ]][[H6051\|עָנָ֤ן]] [[H3515\|כָּבֵד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָ֔ר]] [[H9002\|וְ]][[H6963H\|קֹ֥ל]] [[H7782\|שֹׁפָ֖ר]] [[H2389\|חָזָ֣ק]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H2729\|יֶּחֱרַ֥ד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic DARKNESS|DARKNESS]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic MIRACLES|MIRACLES]] • [[topic REVERENCE|REVERENCE]] • [[topic SINAI|SINAI]] • [[topic SYMBOLS|SYMBOLS]] • [[topic THUNDER|THUNDER]] • [[topic TRUMPET|TRUMPET]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.15|<< Exodus 19:15]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.17|Exodus 19:17 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 19:16** is...
+> $\quad$ referenced by: [[Heb.12.18|Heb 12:18]] ☩ [[Rev.4.5|Rev 4:5]]
+
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֨וֹם]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> third  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִישִׁ֜י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when came  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H1961\|הְיֹ֣ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the morning  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1242\|בֹּ֗קֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thunder claps  |**<big>&#8207;[[H6963I\|קֹלֹ֨ת]]&#8207; </big>**| ko.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and lightning\<s>  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1300B\|בְרָקִ֜ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.ra.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a cloud  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6051\|עָנָ֤ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heavy  |**<big>&#8207;[[H3515\|כָּבֵד֙]]&#8207; </big>**| ka.Ved<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the mountain  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H2022G\|הָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] sound of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6963H\|קֹ֥ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a ram's horn  |**<big>&#8207;[[H7782\|שֹׁפָ֖ר]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| strong  |**<big>&#8207;[[H2389\|חָזָ֣ק]]&#8207; </big>**| cha.Zak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| very  |**<big>&#8207;[[H3966\|מְאֹ֑ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it trembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2729\|יֶּחֱרַ֥ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.che.Rad<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] in the camp  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H4264\|מַּחֲנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba.<small><sup>[[HRd]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.15|<< Exodus 19:15]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.17|Exodus 19:17 >>]]</td></tr></table>
+
+

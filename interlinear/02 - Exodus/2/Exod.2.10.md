@@ -1,0 +1,96 @@
+---
+title: Exodus 2:10
+type: Verse
+kjv: "And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water."
+bsb: "When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”"
+hebrew: "וַיִגְדַּ֣ל הַיֶּ֗לֶד וַתְּבִאֵ֙הוּ֙ לְבַת־ פַּרְעֹ֔ה וַֽיְהִי־ לָ֖הּ לְבֵ֑ן וַתִּקְרָ֤א שְׁמוֹ֙ מֹשֶׁ֔ה וַתֹּ֕אמֶר כִּ֥י מִן־ הַמַּ֖יִם מְשִׁיתִֽהוּ׃"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6547I]]"
+- "[[H1961]]"
+- "[[H9034]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H4872]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H4480A]]"
+- "[[H4325G]]"
+- "[[H4871]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 2:10**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
+<small><sub>**BSB:**</sub></small>
+When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1431\|יִגְדַּ֣ל]] [[H9009\|הַ]][[H3206\|יֶּ֗לֶד]] [[H9001\|וַ]][[H0935P\|תְּבִאֵ֙]][[H9033\|הוּ֙]] [[H9005\|לְ]][[H1323G\|בַת]][[H9014\|־]] [[H6547I\|פַּרְעֹ֔ה]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9005\|לְ]][[H1121A\|בֵ֑ן]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֤א]] [[H8034\|שְׁמ]][[H9023\|וֹ֙]] [[H4872\|מֹשֶׁ֔ה]] [[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H3588A\|כִּ֥י]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֖יִם]] [[H4871\|מְשִׁיתִֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic GOD|GOD]] • [[topic KINDNESS|KINDNESS]] • [[topic MOSES|MOSES]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.9|<< Exodus 2:9]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.11|Exodus 2:11 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Exodus 2:10** is...
+> $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
+
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he grew up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1431\|יִגְדַּ֣ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> yig.Dal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3206\|יֶּ֗לֶד]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Ye.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she took him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|תְּבִאֵ֙]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.vi.'E.<small><sup>[[HVhw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] daughter of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1323G\|בַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547I\|פַּרְעֹ֔ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he became  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to her  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> a son  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1121A\|בֵ֑ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|תִּקְרָ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| name his  |**<big>&#8207;[[H8034\|שְׁמ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֕אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the water  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מַּ֖יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I drew him  |**<big>&#8207;[[H4871\|מְשִׁיתִֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.shi.Ti.<small><sup>[[HVqp1cs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.9|<< Exodus 2:9]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.11|Exodus 2:11 >>]]</td></tr></table>
+
+

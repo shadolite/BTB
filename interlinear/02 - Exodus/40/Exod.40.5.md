@@ -1,0 +1,81 @@
+---
+title: Exodus 40:5
+type: Verse
+kjv: "And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle."
+bsb: "Place the gold altar of incense in front of the ark of the Testimony, and hang the curtain at the entrance to the tabernacle."
+hebrew: "וְנָתַתָּ֞ה אֶת־ מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲר֣וֹן הָעֵדֻ֑ת וְשַׂמְתָּ֛ אֶת־ מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H7004]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H5715]]"
+- "[[H7760A]]"
+- "[[H4539]]"
+- "[[H6607]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 40:5**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.
+<small><sub>**BSB:**</sub></small>
+Place the gold altar of incense in front of the ark of the Testimony, and hang the curtain at the entrance to the tabernacle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֤ח]] [[H9009\|הַ]][[H2091\|זָּהָב֙]] [[H9005\|לִ]][[H7004\|קְטֹ֔רֶת]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H5715\|עֵדֻ֑ת]] [[H9001\|וְ]][[H7760A\|שַׂמְתָּ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H4539\|מָסַ֥ךְ]] [[H9009\|הַ]][[H6607\|פֶּ֖תַח]] [[H9005\|לַ]][[H4908\|מִּשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.4|<< Exodus 40:4]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.6|Exodus 40:6 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] altar of  |**<big>&#8207;[[H4196\|מִזְבַּ֤ח]]&#8207; </big>**| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> gold  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2091\|זָּהָב֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for incense  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7004\|קְטֹ֔רֶת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.To.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֖י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] ark of  |**<big>&#8207;[[H0727\|אֲר֣וֹן]]&#8207; </big>**| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the testimony  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5715\|עֵדֻ֑ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתָּ֛]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] screen of  |**<big>&#8207;[[H4539\|מָסַ֥ךְ]]&#8207; </big>**| ma.Sakh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the entrance  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6607\|פֶּ֖תַח]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Pe.tach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of the tabernacle  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4908\|מִּשְׁכָּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.4|<< Exodus 40:4]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.6|Exodus 40:6 >>]]</td></tr></table>
+
+

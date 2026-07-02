@@ -1,0 +1,112 @@
+---
+title: Exodus 32:13
+type: Verse
+kjv: "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever."
+bsb: "Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’”"
+hebrew: "זְכֹ֡ר לְאַבְרָהָם֩ לְיִצְחָ֨ק וּלְיִשְׂרָאֵ֜ל עֲבָדֶ֗יךָ אֲשֶׁ֨ר נִשְׁבַּ֣עְתָּ לָהֶם֮ בָּךְ֒ וַתְּדַבֵּ֣ר אֲלֵהֶ֔ם אַרְבֶּה֙ אֶֽת־ זַרְעֲכֶ֔ם כְּכוֹכְבֵ֖י הַשָּׁמָ֑יִם וְכָל־ הָאָ֨רֶץ הַזֹּ֜את אֲשֶׁ֣ר אָמַ֗רְתִּי אֶתֵּן֙ לְזַרְעֲכֶ֔ם וְנָחֲל֖וּ לְעֹלָֽם׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2142]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2233H]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H3556]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H5157]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 32:13**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit [it] for ever.
+<small><sub>**BSB:**</sub></small>
+Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your very self when You declared, ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land that I have promised, and it shall be their inheritance forever.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זְכֹ֡ר]] [[H9005\|לְ]][[H0085\|אַבְרָהָם֩]] [[H9005\|לְ]][[H3327\|יִצְחָ֨ק]] [[H9002\|וּ]][[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֜ל]] [[H5650\|עֲבָדֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֣עְתָּ]] [[H9005\|לָ]][[H9038\|הֶם֮]] [[H9003\|בָּ]][[H9031\|ךְ֒]] [[H9001\|וַ]][[H1696G\|תְּדַבֵּ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H7235A\|אַרְבֶּה֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9026\|כֶ֔ם]] [[H9004\|כְּ]][[H3556\|כוֹכְבֵ֖י]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֨רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֜את]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֗רְתִּי]] [[H5414G\|אֶתֵּן֙]] [[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5157\|נָחֲל֖וּ]] [[H9005\|לְ]][[H5769G\|עֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISAAC|ISAAC]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.12|<< Exodus 32:12]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.14|Exodus 32:14 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| remember  |**<big>&#8207;[[H2142\|זְכֹ֡ר]]&#8207; </big>**| ze.Khor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Abraham  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0085\|אַבְרָהָם֩]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> Isaac  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3327\|יִצְחָ֨ק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<to> Israel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֜ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servants your  |**<big>&#8207;[[H5650\|עֲבָדֶ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you swore  |**<big>&#8207;[[H7650\|נִשְׁבַּ֣עְתָּ]]&#8207; </big>**| nish.Ba'.ta<small><sup>[[HVNp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֮]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> yourself  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9031\|ךְ֒]]&#8207; </big>**| bo<small><sup>[[HRd]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|תְּדַבֵּ֣ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.da.Ber<small><sup>[[HVpw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H0413\|אֲלֵ]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will increase  |**<big>&#8207;[[H7235A\|אַרְבֶּה֙]]&#8207; </big>**| 'ar.Beh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| offspring your  |**<big>&#8207;[[H2233H\|זַרְעֲ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| zar.'a.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] stars of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3556\|כוֹכְבֵ֖י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> chokh.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמָ֑יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֨רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּ֜את]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have promised  |**<big>&#8207;[[H0559\|אָמַ֗רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I will give  |**<big>&#8207;[[H5414G\|אֶתֵּן֙]]&#8207; </big>**| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to offspring your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2233H\|זַרְעֲ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> zar.'a.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they will possess [it]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5157\|נָחֲל֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.cha.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.12|<< Exodus 32:12]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.14|Exodus 32:14 >>]]</td></tr></table>
+
+

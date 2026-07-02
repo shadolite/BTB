@@ -1,0 +1,84 @@
+---
+title: Exodus 38:28
+type: Verse
+kjv: "And of the thousand seven hundred seventy and five shekels he made hooks for the pillars, and overlaid their chapiters, and filleted them."
+bsb: "With the 1,775 shekels of silver he made the hooks for the posts, overlaid their tops, and supplied bands for them."
+hebrew: "וְאֶת־ הָאֶ֜לֶף וּשְׁבַ֤ע הַמֵּאוֹת֙ וַחֲמִשָּׁ֣ה וְשִׁבְעִ֔ים עָשָׂ֥ה וָוִ֖ים לָעַמּוּדִ֑ים וְצִפָּ֥ה רָאשֵׁיהֶ֖ם וְחִשַּׁ֥ק אֹתָֽם׃"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0505G]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H2568]]"
+- "[[H7657]]"
+- "[[H6213H]]"
+- "[[H2053]]"
+- "[[H9005]]"
+- "[[H5982G]]"
+- "[[H9001]]"
+- "[[H6823]]"
+- "[[H7218I]]"
+- "[[H9028]]"
+- "[[H2836B]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Exodus 38:28**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And of the thousand seven hundred seventy and five [shekels] he made hooks for the pillars, and overlaid their chapiters, and filleted them.
+<small><sub>**BSB:**</sub></small>
+With the 1,775 shekels of silver he made the hooks for the posts, overlaid their tops, and supplied bands for them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0505G\|אֶ֜לֶף]] [[H9002\|וּ]][[H7651\|שְׁבַ֤ע]] [[H9009\|הַ]][[H3967\|מֵּאוֹת֙]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֣ה]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֔ים]] [[H6213H\|עָשָׂ֥ה]] [[H2053\|וָוִ֖ים]] [[H9005\|לָ]][[H5982G\|עַמּוּדִ֑ים]] [[H9001\|וְ]][[H6823\|צִפָּ֥ה]] [[H7218I\|רָאשֵׁי]][[H9028\|הֶ֖ם]] [[H9001\|וְ]][[H2836B\|חִשַּׁ֥ק]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic TABERNACLE|TABERNACLE]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.38.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.27|<< Exodus 38:27]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.29|Exodus 38:29 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the one thousand  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0505G\|אֶ֜לֶף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] seven  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7651\|שְׁבַ֤ע]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hundred\<s>  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3967\|מֵּאוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.'Ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּׁ֣ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and seventy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7657\|שִׁבְעִ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he made  |**<big>&#8207;[[H6213H\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hooks  |**<big>&#8207;[[H2053\|וָוִ֖ים]]&#8207; </big>**| va.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the pillars  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5982G\|עַמּוּדִ֑ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he overlaid  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6823\|צִפָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.Pah<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tops their  |**<big>&#8207;[[H7218I\|רָאשֵׁי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| ra.shei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he furnished with bands  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2836B\|חִשַּׁ֥ק]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.Shak<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.27|<< Exodus 38:27]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.29|Exodus 38:29 >>]]</td></tr></table>
+
+

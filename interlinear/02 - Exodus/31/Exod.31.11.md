@@ -1,0 +1,85 @@
+---
+title: Exodus 31:11
+type: Verse
+kjv: "And the anointing oil, and sweet incense for the holy place: according to all that I have commanded thee shall they do."
+bsb: "in addition to the anointing oil and fragrant incense for the Holy Place. They are to make them according to all that I have commanded you.”"
+hebrew: "וְאֵ֨ת שֶׁ֧מֶן הַמִּשְׁחָ֛ה וְאֶת־ קְטֹ֥רֶת הַסַּמִּ֖ים לַקֹּ֑דֶשׁ כְּכֹ֥ל אֲשֶׁר־ צִוִּיתִ֖ךָ יַעֲשֽׂוּ׃ פ"
+pericope: "[[Exod.31.1 Bezalel and Oholiab|Bezalel and Oholiab]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic OIL|OIL]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H8081]]"
+- "[[H9009]]"
+- "[[H4888A]]"
+- "[[H9014]]"
+- "[[H7004]]"
+- "[[H5561]]"
+- "[[H9005]]"
+- "[[H6944J]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
+**Exodus 31:11**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And the anointing oil, and sweet incense for the holy [place]: according to all that I have commanded thee shall they do.
+<small><sub>**BSB:**</sub></small>
+in addition to the anointing oil and fragrant incense for the Holy Place. They are to make them according to all that I have commanded you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H8081\|שֶׁ֧מֶן]] [[H9009\|הַ]][[H4888A\|מִּשְׁחָ֛ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7004\|קְטֹ֥רֶת]] [[H9009\|הַ]][[H5561\|סַּמִּ֖ים]] [[H9005\|לַ]][[H6944J\|קֹּ֑דֶשׁ]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוִּיתִ֖]][[H9031\|ךָ]] [[H6213A\|יַעֲשֽׂוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic GENIUS|GENIUS]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic OIL|OIL]] • [[topic SMITH|SMITH]] • [[topic TABERNACLE|TABERNACLE]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Exod.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.10|<< Exodus 31:10]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.12|Exodus 31:12 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] oil of  |**<big>&#8207;[[H8081\|שֶׁ֧מֶן]]&#8207; </big>**| She.men<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> anointing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4888A\|מִּשְׁחָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] incense of  |**<big>&#8207;[[H7004\|קְטֹ֥רֶת]]&#8207; </big>**| ke.To.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the perfume\<s>  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5561\|סַּמִּ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for the holy place  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6944J\|קֹּ֑דֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ko.desh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כֹ֥ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have commanded you  |**<big>&#8207;[[H6680\|צִוִּיתִ֖]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| tzi.vi.Ti.<small><sup>[[HVpp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will do  |**<big>&#8207;[[H6213A\|יַעֲשֽׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.'a.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.10|<< Exodus 31:10]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.12|Exodus 31:12 >>]]</td></tr></table>
+
+
