@@ -1,0 +1,100 @@
+---
+title: Leviticus 16:12
+type: Verse
+kjv: "And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:"
+bsb: "Then he must take a censer full of burning coals from the altar before the LORD, and two handfuls of finely ground fragrant incense, and take them inside the veil."
+hebrew: "וְלָקַ֣ח מְלֹֽא־ הַ֠מַּחְתָּה גַּֽחֲלֵי־ אֵ֞שׁ מֵעַ֤ל הַמִּזְבֵּ֙חַ֙ מִלִּפְנֵ֣י יְהוָ֔ה וּמְלֹ֣א חָפְנָ֔יו קְטֹ֥רֶת סַמִּ֖ים דַּקָּ֑ה וְהֵבִ֖יא מִבֵּ֥ית לַפָּרֹֽכֶת׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4393]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4289]]"
+- "[[H1513]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2651]]"
+- "[[H9023]]"
+- "[[H7004]]"
+- "[[H5561]]"
+- "[[H1851]]"
+- "[[H0935P]]"
+- "[[H1004O]]"
+- "[[H6532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Leviticus 16:12**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring [it] within the vail:
+<small><sub>**BSB:**</sub></small>
+Then he must take a censer full of burning coals from the altar before the LORD, and two handfuls of finely ground fragrant incense, and take them inside the veil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֣ח]] [[H4393\|מְלֹֽא]][[H9014\|־]] [[H9009\|הַ֠]][[H4289\|מַּחְתָּה]] [[H1513\|גַּֽחֲלֵי]][[H9014\|־]] [[H0784\|אֵ֞שׁ]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H4393\|מְלֹ֣א]] [[H2651\|חָפְנָ֔י]][[H9023\|ו]] [[H7004\|קְטֹ֥רֶת]] [[H5561\|סַמִּ֖ים]] [[H1851\|דַּקָּ֑ה]] [[H9001\|וְ]][[H0935P\|הֵבִ֖יא]] [[H9006\|מִ]][[H1004O\|בֵּ֥ית]] [[H9005\|לַ]][[H6532\|פָּרֹֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CENSER|CENSER]] • [[topic CHURCH|CHURCH]] • [[topic INCENSE|INCENSE]] • [[topic OFFERINGS|OFFERINGS]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Lev.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.11|<< Leviticus 16:11]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.13|Leviticus 16:13 >>]]</td></tr></table>
+> [!quote]- Scripture Quoting Scripture
+> **Leviticus 16:12** is...
+> $\quad$ referenced by: [[Heb.6.19|Heb 6:19]] ☩ [[Rev.8.3|Rev 8:3]]
+
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֣ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> fullness of  |**<big>&#8207;[[H4393\|מְלֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.lo'-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> censer  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H4289\|מַּחְתָּה]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> mach.tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| coals of  |**<big>&#8207;[[H1513\|גַּֽחֲלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ga.cha.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fire  |**<big>&#8207;[[H0784\|אֵ֞שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֙חַ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from to before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לִּ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] fullness of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4393\|מְלֹ֣א]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.Lo'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands his  |**<big>&#8207;[[H2651\|חָפְנָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| cha.fe.Na<small><sup>[[HNcmdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| incense of  |**<big>&#8207;[[H7004\|קְטֹ֥רֶת]]&#8207; </big>**| ke.To.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perfume\<s>  |**<big>&#8207;[[H5561\|סַמִּ֖ים]]&#8207; </big>**| sa.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fine  |**<big>&#8207;[[H1851\|דַּקָּ֑ה]]&#8207; </big>**| da.Kah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will bring [them]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵבִ֖יא]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Vi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from inside  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1004O\|בֵּ֥ית]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the curtain  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6532\|פָּרֹֽכֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> pa.Ro.khet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.11|<< Leviticus 16:11]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.13|Leviticus 16:13 >>]]</td></tr></table>
+
+

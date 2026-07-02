@@ -1,0 +1,98 @@
+---
+title: Leviticus 11:4
+type: Verse
+kjv: "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+bsb: "But of those that only chew the cud or only have a divided hoof, you are not to eat the following: The camel, though it chews the cud, does not have a divided hoof; it is unclean for you."
+hebrew: "אַ֤ךְ אֶת־ זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִֽמַּעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֖י הַפַּרְסָ֑ה אֶֽת־ הַ֠גָּמָל כִּֽי־ מַעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic CUD|CUD]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic HOOF|HOOF]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0389]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H5927M]]"
+- "[[H9009]]"
+- "[[H1625]]"
+- "[[H9002]]"
+- "[[H6536]]"
+- "[[H6541]]"
+- "[[H1581]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H2931]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Leviticus 11:4**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: [as] the camel, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.
+<small><sub>**BSB:**</sub></small>
+But of those that only chew the cud or only have a divided hoof, you are not to eat the following: The camel, though it chews the cud, does not have a divided hoof; it is unclean for you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֤ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H2088\|זֶה֙]] [[H3808\|לֹ֣א]] [[H0398\|תֹֽאכְל֔וּ]] [[H9006\|מִֽ]][[H5927M\|מַּעֲלֵי֙]] [[H9009\|הַ]][[H1625\|גֵּרָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H6536\|מַּפְרִיסֵ֖י]] [[H9009\|הַ]][[H6541\|פַּרְסָ֑ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ֠]][[H1581\|גָּמָל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5927M\|מַעֲלֵ֨ה]] [[H1625\|גֵרָ֜ה]] [[H1931\|ה֗וּא]] [[H9002\|וּ]][[H6541\|פַרְסָה֙]] [[H0369\|אֵינֶ֣]][[H9043\|נּוּ]] [[H6536\|מַפְרִ֔יס]] [[H2931\|טָמֵ֥א]] [[H1931\|ה֖וּא]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMEL|CAMEL]] • [[topic CUD|CUD]] • [[topic FOOD|FOOD]] • [[topic GOAT|GOAT]] • [[topic HOOF|HOOF]] • [[topic SANITATION|SANITATION]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Lev.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.3|<< Leviticus 11:3]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.5|Leviticus 11:5 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| nevertheless  |**<big>&#8207;[[H0389\|אַ֤ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶה֙]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you must eat  |**<big>&#8207;[[H0398\|תֹֽאכְל֔וּ]]&#8207; </big>**| to.khe.Lu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [those which] bring up  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H5927M\|מַּעֲלֵי֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ma.'a.Lei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> the cud  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1625\|גֵּרָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and from [those which] divide in two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6536\|מַּפְרִיסֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> maf.ri.Sei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> the hoof  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6541\|פַּרְסָ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> par.Sah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the camel  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H1581\|גָּמָל]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ga.mol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] bringing up  |**<big>&#8207;[[H5927M\|מַעֲלֵ֨ה]]&#8207; </big>**| ma.'a.Leh<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<of> cud  |**<big>&#8207;[[H1625\|גֵרָ֜ה]]&#8207; </big>**| ge.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and a hoof  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6541\|פַרְסָה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> far.Sah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not it  |**<big>&#8207;[[H0369\|אֵינֶ֣]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] dividing in two  |**<big>&#8207;[[H6536\|מַפְרִ֔יס]]&#8207; </big>**| maf.Ris<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] unclean  |**<big>&#8207;[[H2931\|טָמֵ֥א]]&#8207; </big>**| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.3|<< Leviticus 11:3]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.5|Leviticus 11:5 >>]]</td></tr></table>
+
+

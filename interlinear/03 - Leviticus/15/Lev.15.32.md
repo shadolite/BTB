@@ -1,0 +1,80 @@
+---
+title: Leviticus 15:32
+type: Verse
+kjv: "This is the law of him that hath an issue, and of him whose seed goeth from him, and is defiled therewith;"
+bsb: "This is the law of him who has a discharge, of the man who has an emission of semen whereby he is unclean,"
+hebrew: "זֹ֥את תּוֹרַ֖ת הַזָּ֑ב וַאֲשֶׁ֨ר תֵּצֵ֥א מִמֶּ֛נּוּ שִׁכְבַת־ זֶ֖רַע לְטָמְאָה־ בָֽהּ׃"
+pericope: "[[Lev.15.28 The Cleansing of Women|The Cleansing of Women]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H2100H]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3318L]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H7902]]"
+- "[[H9014]]"
+- "[[H2233I]]"
+- "[[H9005]]"
+- "[[H2930A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Leviticus 15:32**<big><big>[[Lev.15.28 The Cleansing of Women|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+This [is] the law of him that hath an issue, and [of him] whose seed goeth from him, and is defiled therewith;
+<small><sub>**BSB:**</sub></small>
+This is the law of him who has a discharge, of the man who has an emission of semen whereby he is unclean,
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H8451\|תּוֹרַ֖ת]] [[H9009\|הַ]][[H2100H\|זָּ֑ב]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H3318L\|תֵּצֵ֥א]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H7902\|שִׁכְבַת]][[H9014\|־]] [[H2233I\|זֶ֖רַע]] [[H9005\|לְ]][[H2930A\|טָמְאָה]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic WOMEN|WOMEN]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Lev.15.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.31|<< Leviticus 15:31]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.33|Leviticus 15:33 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| this  |**<big>&#8207;[[H2063\|זֹ֥את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] [the] legal [procedure] of  |**<big>&#8207;[[H8451\|תּוֹרַ֖ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [one] discharging  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2100H\|זָּ֑ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zav<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the one] who  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will go out  |**<big>&#8207;[[H3318L\|תֵּצֵ֥א]]&#8207; </big>**| te.Tze'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from him  |**<big>&#8207;[[H4480A\|מִמֶּ֛]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a laying of  |**<big>&#8207;[[H7902\|שִׁכְבַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shikh.vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| seed  |**<big>&#8207;[[H2233I\|זֶ֖רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to be unclean  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2930A\|טָמְאָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ta.me.'ah-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by \<the> it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.31|<< Leviticus 15:31]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.33|Leviticus 15:33 >>]]</td></tr></table>
+
+

@@ -1,0 +1,84 @@
+---
+title: Leviticus 7:29
+type: Verse
+kjv: "Speak unto the children of Israel, saying, He that offereth the sacrifice of his peace offerings unto the LORD shall bring his oblation unto the LORD of the sacrifice of his peace offerings."
+bsb: "“Speak to the Israelites and say, ‘Anyone who presents a peace offering to the LORD must bring it as his sacrifice to the LORD."
+hebrew: "דַּבֵּ֛ר אֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר הַמַּקְרִ֞יב אֶת־ זֶ֤בַח שְׁלָמָיו֙ לַיהוָ֔ה יָבִ֧יא אֶת־ קָרְבָּנ֛וֹ לַיהוָ֖ה מִזֶּ֥בַח שְׁלָמָֽיו׃"
+pericope: "[[Lev.7.28 The Priests’ Portion|The Priests’ Portion]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9023]]"
+- "[[H3068G]]"
+- "[[H0935P]]"
+- "[[H7133A]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Leviticus 7:29**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+Speak unto the children of Israel, saying, He that offereth the sacrifice of his peace offerings unto the LORD shall bring his oblation unto the LORD of the sacrifice of his peace offerings.
+<small><sub>**BSB:**</sub></small>
+“Speak to the Israelites and say, ‘Anyone who presents a peace offering to the LORD must bring it as his sacrifice to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9009\|הַ]][[H7126H\|מַּקְרִ֞יב]] [[H0853\|אֶת]][[H9014\|־]] [[H2077\|זֶ֤בַח]] [[H8002\|שְׁלָמָי]][[H9023\|ו֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H0935P\|יָבִ֧יא]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנ֛]][[H9023\|וֹ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9006\|מִ]][[H2077\|זֶּ֥בַח]] [[H8002\|שְׁלָמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Lev.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.28|<< Leviticus 7:28]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.30|Leviticus 7:30 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֛ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֑ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the [one who] presents  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7126H\|מַּקְרִ֞יב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mak.Riv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sacrifice of  |**<big>&#8207;[[H2077\|זֶ֤בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace offering\<s> his  |**<big>&#8207;[[H8002\|שְׁלָמָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| she.la.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will bring  |**<big>&#8207;[[H0935P\|יָבִ֧יא]]&#8207; </big>**| ya.Vi'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| present his  |**<big>&#8207;[[H7133A\|קָרְבָּנ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ka.re.ba.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] sacrifice of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2077\|זֶּ֥בַח]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace offering\<s> his  |**<big>&#8207;[[H8002\|שְׁלָמָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.la.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.28|<< Leviticus 7:28]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.30|Leviticus 7:30 >>]]</td></tr></table>
+
+

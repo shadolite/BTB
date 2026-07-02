@@ -1,0 +1,83 @@
+---
+title: Leviticus 26:4
+type: Verse
+kjv: "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit."
+bsb: "I will give you rains in their season, and the land will yield its produce, and the trees of the field will bear their fruit."
+hebrew: "וְנָתַתִּ֥י גִשְׁמֵיכֶ֖ם בְּעִתָּ֑ם וְנָתְנָ֤ה הָאָ֙רֶץ֙ יְבוּלָ֔הּ וְעֵ֥ץ הַשָּׂדֶ֖ה יִתֵּ֥ן פִּרְיֽוֹ׃"
+pericope: "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H1653]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2981]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H6086H]]"
+- "[[H7704G]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Leviticus 26:4**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.
+<small><sub>**BSB:**</sub></small>
+I will give you rains in their season, and the land will yield its produce, and the trees of the field will bear their fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֥י]] [[H1653\|גִשְׁמֵי]][[H9026\|כֶ֖ם]] [[H9003\|בְּ]][[H6256\|עִתָּ֑]][[H9028\|ם]] [[H9001\|וְ]][[H5414G\|נָתְנָ֤ה]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H2981\|יְבוּלָ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H6086H\|עֵ֥ץ]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H5414G\|יִתֵּ֥ן]] [[H6529\|פִּרְיֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RAIN|RAIN]] • [[topic REWARD|REWARD]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Lev.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.3|<< Leviticus 26:3]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.5|Leviticus 26:5 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| rains your  |**<big>&#8207;[[H1653\|גִשְׁמֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| gish.mei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| at time their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עִתָּ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'i.Ta<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתְנָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nat.Nah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֙רֶץ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| produce its  |**<big>&#8207;[[H2981\|יְבוּלָ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ye.vu.La<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] tree[s] of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6086H\|עֵ֥ץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Etz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will give  |**<big>&#8207;[[H5414G\|יִתֵּ֥ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit its  |**<big>&#8207;[[H6529\|פִּרְיֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pir.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.3|<< Leviticus 26:3]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.5|Leviticus 26:5 >>]]</td></tr></table>
+
+
