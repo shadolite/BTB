@@ -1,0 +1,81 @@
+---
+title: Genesis 24:23
+type: Verse
+kjv: "And said, Whose daughter art thou? tell me, I pray thee: is there room in thy father’s house for us to lodge in?"
+bsb: "“Whose daughter are you?” he asked. “Please tell me, is there room in your father’s house for us to spend the night?”"
+hebrew: "וַיֹּ֙אמֶר֙ בַּת־ מִ֣י אַ֔תְּ הַגִּ֥ידִי נָ֖א לִ֑י הֲיֵ֧שׁ בֵּית־ אָבִ֛יךְ מָק֥וֹם לָ֖נוּ לָלִֽין׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H0859C]]"
+- "[[H5046]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H1004B]]"
+- "[[H0001G]]"
+- "[[H9022]]"
+- "[[H4725]]"
+- "[[H9035]]"
+- "[[H3885A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 24:23**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And said, Whose daughter [art] thou? tell me, I pray thee: is there room [in] thy father’s house for us to lodge in?
+<small><sub>**BSB:**</sub></small>
+“Whose daughter are you?” he asked. “Please tell me, is there room in your father’s house for us to spend the night?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H4310\|מִ֣י]] [[H0859C\|אַ֔תְּ]] [[H5046\|הַגִּ֥ידִי]] [[H4994\|נָ֖א]] [[H9005\|לִ֑]][[H9030\|י]] [[H9008\|הֲ]][[H3426\|יֵ֧שׁ]] [[H1004B\|בֵּית]][[H9014\|־]] [[H0001G\|אָבִ֛י]][[H9022\|ךְ]] [[H4725\|מָק֥וֹם]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H9005\|לָ]][[H3885A\|לִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.22|<< Genesis 24:22]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.24|Genesis 24:24 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] you  |**<big>&#8207;[[H0859C\|אַ֔תְּ]]&#8207; </big>**| 'At<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| tell  |**<big>&#8207;[[H5046\|הַגִּ֥ידִי]]&#8207; </big>**| ha.Gi.di<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| please  |**<big>&#8207;[[H4994\|נָ֖א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  |**<big>&#8207;[[H9005\|לִ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ¿ [is] there  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3426\|יֵ֧שׁ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] house of  |**<big>&#8207;[[H1004B\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father your  |**<big>&#8207;[[H0001G\|אָבִ֛י]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| room  |**<big>&#8207;[[H4725\|מָק֥וֹם]]&#8207; </big>**| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> us  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to stay [the] night  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3885A\|לִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Lin<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.22|<< Genesis 24:22]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.24|Genesis 24:24 >>]]</td></tr></table>
+
+

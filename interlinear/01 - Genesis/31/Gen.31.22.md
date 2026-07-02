@@ -1,0 +1,68 @@
+---
+title: Genesis 31:22
+type: Verse
+kjv: "And it was told Laban on the third day that Jacob was fled."
+bsb: "On the third day Laban was informed that Jacob had fled."
+hebrew: "וַיֻּגַּ֥ד לְלָבָ֖ן בַּיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֥י בָרַ֖ח יַעֲקֹֽב׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H3837A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H3588A]]"
+- "[[H1272]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 31:22**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And it was told Laban on the third day that Jacob was fled.
+<small><sub>**BSB:**</sub></small>
+On the third day Laban was informed that Jacob had fled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֥ד]] [[H9005\|לְ]][[H3837A\|לָבָ֖ן]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֑י]] [[H3588A\|כִּ֥י]] [[H1272\|בָרַ֖ח]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic LABAN|LABAN]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.31.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.21|<< Genesis 31:21]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.23|Genesis 31:23 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֥ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Laban  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3837A\|לָבָ֖ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> third  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִישִׁ֑י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had fled  |**<big>&#8207;[[H1272\|בָרַ֖ח]]&#8207; </big>**| va.Rach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.21|<< Genesis 31:21]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.23|Genesis 31:23 >>]]</td></tr></table>
+
+

@@ -1,0 +1,104 @@
+---
+title: Genesis 29:10
+type: Verse
+kjv: "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother."
+bsb: "As soon as Jacob saw Rachel, the daughter of his mother’s brother Laban, with Laban’s sheep, he went up and rolled the stone away from the mouth of the well and watered his uncle’s sheep."
+hebrew: "וַיְהִ֡י כַּאֲשֶׁר֩ רָאָ֨ה יַעֲקֹ֜ב אֶת־ רָחֵ֗ל בַּת־ לָבָן֙ אֲחִ֣י אִמּ֔וֹ וְאֶת־ צֹ֥אן לָבָ֖ן אֲחִ֣י אִמּ֑וֹ וַיִּגַּ֣שׁ יַעֲקֹ֗ב וַיָּ֤גֶל אֶת־ הָאֶ֙בֶן֙ מֵעַל֙ פִּ֣י הַבְּאֵ֔ר וַיַּ֕שְׁקְ אֶת־ צֹ֥אן לָבָ֖ן אֲחִ֥י אִמּֽוֹ׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7200G]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7354]]"
+- "[[H1323G]]"
+- "[[H3837A]]"
+- "[[H0251G]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H5066G]]"
+- "[[H1556]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6310G]]"
+- "[[H0875]]"
+- "[[H8248G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 29:10**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother.
+<small><sub>**BSB:**</sub></small>
+As soon as Jacob saw Rachel, the daughter of his mother’s brother Laban, with Laban’s sheep, he went up and rolled the stone away from the mouth of the well and watered his uncle’s sheep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H7200G\|רָאָ֨ה]] [[H3290\|יַעֲקֹ֜ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7354\|רָחֵ֗ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H3837A\|לָבָן֙]] [[H0251G\|אֲחִ֣י]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֥אן]] [[H3837A\|לָבָ֖ן]] [[H0251G\|אֲחִ֣י]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5066G\|יִּגַּ֣שׁ]] [[H3290\|יַעֲקֹ֗ב]] [[H9001\|וַ]][[H1556\|יָּ֤גֶל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0068G\|אֶ֙בֶן֙]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H6310G\|פִּ֣י]] [[H9009\|הַ]][[H0875\|בְּאֵ֔ר]] [[H9001\|וַ]][[H8248G\|יַּ֕שְׁקְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֥אן]] [[H3837A\|לָבָ֖ן]] [[H0251G\|אֲחִ֥י]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RACHEL|RACHEL]] • [[topic SHEPHERD|SHEPHERD]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.9|<< Genesis 29:9]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.11|Genesis 29:11 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֡י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר֩]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he saw  |**<big>&#8207;[[H7200G\|רָאָ֨ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֜ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rachel  |**<big>&#8207;[[H7354\|רָחֵ֗ל]]&#8207; </big>**| ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָן֙]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֣י]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother his  |**<big>&#8207;[[H0517\|אִמּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sheep of  |**<big>&#8207;[[H6629G\|צֹ֥אן]]&#8207; </big>**| tzon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָ֖ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֣י]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother his  |**<big>&#8207;[[H0517\|אִמּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|יִּגַּ֣שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Gash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֗ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he rolled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1556\|יָּ֤גֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.gel<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the stone  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0068G\|אֶ֙בֶן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from over  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַל֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] mouth of  |**<big>&#8207;[[H6310G\|פִּ֣י]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the well  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0875\|בְּאֵ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.'Er<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he watered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8248G\|יַּ֕שְׁקְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yashk<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sheep of  |**<big>&#8207;[[H6629G\|צֹ֥אן]]&#8207; </big>**| tzon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָ֖ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֥י]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| mother his  |**<big>&#8207;[[H0517\|אִמּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.9|<< Genesis 29:9]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.11|Genesis 29:11 >>]]</td></tr></table>
+
+

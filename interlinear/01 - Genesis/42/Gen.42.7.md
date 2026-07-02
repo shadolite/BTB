@@ -1,0 +1,92 @@
+---
+title: Genesis 42:7
+type: Verse
+kjv: "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food."
+bsb: "And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.”"
+hebrew: "וַיַּ֥רְא יוֹסֵ֛ף אֶת־ אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבָּר־ אֹֽכֶל׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5234A]]"
+- "[[H9038]]"
+- "[[H5234B]]"
+- "[[H0413]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H7186]]"
+- "[[H0559]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9005]]"
+- "[[H7666]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 42:7**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.
+<small><sub>**BSB:**</sub></small>
+And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H3130G\|יוֹסֵ֛ף]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H5234A\|יַּכִּרֵ֑]][[H9038\|ם]] [[H9001\|וַ]][[H5234B\|יִּתְנַכֵּ֨ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֧ר]] [[H0854\|אִתָּ֣]][[H9038\|ם]] [[H7186\|קָשׁ֗וֹת]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H9006\|מֵ]][[H0370\|אַ֣יִן]] [[H0935G\|בָּאתֶ֔ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנַ֖עַן]] [[H9005\|לִ]][[H7666\|שְׁבָּר]][[H9014\|־]] [[H0400\|אֹֽכֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.42.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.6|<< Genesis 42:6]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.8|Genesis 42:8 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֥רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֛ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| brothers his  |**<big>&#8207;[[H0251G\|אֶחָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he recognized them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5234A\|יַּכִּרֵ֑]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.ki.Re<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he acted as a stranger  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5234B\|יִּתְנַכֵּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.na.Ker<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֧ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  |**<big>&#8207;[[H0854\|אִתָּ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'i.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| harsh  |**<big>&#8207;[[H7186\|קָשׁ֗וֹת]]&#8207; </big>**| ka.Shot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to them  |**<big>&#8207;[[H0413\|אֲלֵ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from where?  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0370\|אַ֣יִן]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'A.yin<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| have you come  |**<big>&#8207;[[H0935G\|בָּאתֶ֔ם]]&#8207; </big>**| ba.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמְר֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from [the] land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Canaan  |**<big>&#8207;[[H3667A\|כְּנַ֖עַן]]&#8207; </big>**| ke.Na.'an<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to buy  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7666\|שְׁבָּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.bor-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H0400\|אֹֽכֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.6|<< Genesis 42:6]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.8|Genesis 42:8 >>]]</td></tr></table>
+
+

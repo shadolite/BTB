@@ -1,0 +1,86 @@
+---
+title: Genesis 29:26
+type: Verse
+kjv: "And Laban said, It must not be so done in our country, to give the younger before the firstborn."
+bsb: "Laban replied, “It is not our custom here to give the younger daughter in marriage before the older."
+hebrew: "וַיֹּ֣אמֶר לָבָ֔ן לֹא־ יֵעָשֶׂ֥ה כֵ֖ן בִּמְקוֹמֵ֑נוּ לָתֵ֥ת הַצְּעִירָ֖ה לִפְנֵ֥י הַבְּכִירָֽה׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3837A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H5414O]]"
+- "[[H9009]]"
+- "[[H6810]]"
+- "[[H6440G]]"
+- "[[H1067]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 29:26**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And Laban said, It must not be so done in our country, to give the younger before the firstborn.
+<small><sub>**BSB:**</sub></small>
+Laban replied, “It is not our custom here to give the younger daughter in marriage before the older.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3837A\|לָבָ֔ן]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|יֵעָשֶׂ֥ה]] [[H3651C\|כֵ֖ן]] [[H9003\|בִּ]][[H4725\|מְקוֹמֵ֑]][[H9025\|נוּ]] [[H9005\|לָ]][[H5414O\|תֵ֥ת]] [[H9009\|הַ]][[H6810\|צְּעִירָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H1067\|בְּכִירָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic LEAH|LEAH]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.25|<< Genesis 29:25]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.27|Genesis 29:27 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָ֔ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it is done  |**<big>&#8207;[[H6213A\|יֵעָשֶׂ֥ה]]&#8207; </big>**| ye.'a.Seh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thus  |**<big>&#8207;[[H3651C\|כֵ֖ן]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place our  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4725\|מְקוֹמֵ֑]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.ko.Me.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to give  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5414O\|תֵ֥ת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the young  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6810\|צְּעִירָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tze.'i.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the firstborn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1067\|בְּכִירָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.khi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.25|<< Genesis 29:25]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.27|Genesis 29:27 >>]]</td></tr></table>
+
+

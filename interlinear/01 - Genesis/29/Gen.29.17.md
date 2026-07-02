@@ -1,0 +1,77 @@
+---
+title: Genesis 29:17
+type: Verse
+kjv: "Leah was tender eyed; but Rachel was beautiful and well favoured."
+bsb: "Leah had weak eyes, but Rachel was shapely and beautiful."
+hebrew: "וְעֵינֵ֥י לֵאָ֖ה רַכּ֑וֹת וְרָחֵל֙ הָֽיְתָ֔ה יְפַת־ תֹּ֖אַר וִיפַ֥ת מַרְאֶֽה׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H3812]]"
+- "[[H7390]]"
+- "[[H7354]]"
+- "[[H1961]]"
+- "[[H3303]]"
+- "[[H9014]]"
+- "[[H8389]]"
+- "[[H4758]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 29:17**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+Leah [was] tender eyed; but Rachel was beautiful and well favoured.
+<small><sub>**BSB:**</sub></small>
+Leah had weak eyes, but Rachel was shapely and beautiful.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5869A\|עֵינֵ֥י]] [[H3812\|לֵאָ֖ה]] [[H7390\|רַכּ֑וֹת]] [[H9002\|וְ]][[H7354\|רָחֵל֙]] [[H1961\|הָֽיְתָ֔ה]] [[H3303\|יְפַת]][[H9014\|־]] [[H8389\|תֹּ֖אַר]] [[H9002\|וִ]][[H3303\|יפַ֥ת]] [[H4758\|מַרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY|BEAUTY]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.16|<< Genesis 29:16]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.18|Genesis 29:18 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and [the] eyes of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵינֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Leah  |**<big>&#8207;[[H3812\|לֵאָ֖ה]]&#8207; </big>**| le.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] weak  |**<big>&#8207;[[H7390\|רַכּ֑וֹת]]&#8207; </big>**| ra.Kot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Rachel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7354\|רָחֵל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she was  |**<big>&#8207;[[H1961\|הָֽיְתָ֔ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| beautiful of  |**<big>&#8207;[[H3303\|יְפַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.fat-<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| form  |**<big>&#8207;[[H8389\|תֹּ֖אַר]]&#8207; </big>**| To.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and beautiful of  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3303\|יפַ֥ת]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Fat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| appearance  |**<big>&#8207;[[H4758\|מַרְאֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mar.'Eh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.16|<< Genesis 29:16]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.18|Genesis 29:18 >>]]</td></tr></table>
+
+

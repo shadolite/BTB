@@ -1,0 +1,84 @@
+---
+title: Genesis 46:25
+type: Verse
+kjv: "These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven."
+bsb: "These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all."
+hebrew: "אֵ֚לֶּה בְּנֵ֣י בִלְהָ֔ה אֲשֶׁר־ נָתַ֥ן לָבָ֖ן לְרָחֵ֣ל בִּתּ֑וֹ וַתֵּ֧לֶד אֶת־ אֵ֛לֶּה לְיַעֲקֹ֖ב כָּל־ נֶ֥פֶשׁ שִׁבְעָֽה׃"
+pericope: "[[Gen.46.23 The Children of Bilhah|The Children of Bilhah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BILHAH|BILHAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H1090A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H3837A]]"
+- "[[H9005]]"
+- "[[H7354]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H3290]]"
+- "[[H3605]]"
+- "[[H5315J]]"
+- "[[H7651]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 46:25**<big><big>[[Gen.46.23 The Children of Bilhah|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+These [are] the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls [were] seven.
+<small><sub>**BSB:**</sub></small>
+These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H1090A\|בִלְהָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H3837A\|לָבָ֖ן]] [[H9005\|לְ]][[H7354\|רָחֵ֣ל]] [[H1323G\|בִּתּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3205\|תֵּ֧לֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֛לֶּה]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֖ב]] [[H3605\|כָּל]][[H9014\|־]] [[H5315J\|נֶ֥פֶשׁ]] [[H7651\|שִׁבְעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BILHAH|BILHAH]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.46.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.24|<< Genesis 46:24]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.26|Genesis 46:26 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Bilhah  |**<big>&#8207;[[H1090A\|בִלְהָ֔ה]]&#8207; </big>**| vil.Hah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| whom  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he had given  |**<big>&#8207;[[H5414G\|נָתַ֥ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Laban  |**<big>&#8207;[[H3837A\|לָבָ֖ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Rachel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7354\|רָחֵ֣ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| daughter his  |**<big>&#8207;[[H1323G\|בִּתּ֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| bi.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she had borne  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֧לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| these  |**<big>&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to Jacob  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֖ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| person  |**<big>&#8207;[[H5315J\|נֶ֥פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] seven  |**<big>&#8207;[[H7651\|שִׁבְעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.24|<< Genesis 46:24]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.26|Genesis 46:26 >>]]</td></tr></table>
+
+

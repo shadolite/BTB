@@ -1,0 +1,85 @@
+---
+title: Genesis 9:3
+type: Verse
+kjv: "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things."
+bsb: "Everything that lives and moves will be food for you; just as I gave you the green plants, I now give you all things."
+hebrew: "כָּל־ רֶ֙מֶשׂ֙ אֲשֶׁ֣ר הוּא־ חַ֔י לָכֶ֥ם יִהְיֶ֖ה לְאָכְלָ֑ה כְּיֶ֣רֶק עֵ֔שֶׂב נָתַ֥תִּי לָכֶ֖ם אֶת־ כֹּֽל׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FISH|FISH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7431]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H2416A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1961]]"
+- "[[H0402]]"
+- "[[H9004]]"
+- "[[H3418]]"
+- "[[H6212]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 9:3**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.
+<small><sub>**BSB:**</sub></small>
+Everything that lives and moves will be food for you; just as I gave you the green plants, I now give you all things.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H7431\|רֶ֙מֶשׂ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1931\|הוּא]][[H9014\|־]] [[H2416A\|חַ֔י]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H1961\|יִהְיֶ֖ה]] [[H9005\|לְ]][[H0402\|אָכְלָ֑ה]] [[H9004\|כְּ]][[H3418\|יֶ֣רֶק]] [[H6212\|עֵ֔שֶׂב]] [[H5414G\|נָתַ֥תִּי]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כֹּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BIRDS|BIRDS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic FISH|FISH]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic MAN|MAN]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.2|<< Genesis 9:2]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.4|Genesis 9:4 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| creeping thing  |**<big>&#8207;[[H7431\|רֶ֙מֶשׂ֙]]&#8207; </big>**| Re.mes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] alive  |**<big>&#8207;[[H2416A\|חַ֔י]]&#8207; </big>**| Chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֥ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will become  |**<big>&#8207;[[H1961\|יִהְיֶ֖ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> food  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0402\|אָכְלָ֑ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'okh.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] greenery of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3418\|יֶ֣רֶק]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Ye.rek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| plant[s]  |**<big>&#8207;[[H6212\|עֵ֔שֶׂב]]&#8207; </big>**| 'E.sev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I give  |**<big>&#8207;[[H5414G\|נָתַ֥תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| everything  |**<big>&#8207;[[H3605\|כֹּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.2|<< Genesis 9:2]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.4|Genesis 9:4 >>]]</td></tr></table>
+
+

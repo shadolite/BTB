@@ -1,0 +1,96 @@
+---
+title: Genesis 38:12
+type: Verse
+kjv: "And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite."
+bsb: "After a long time Judah’s wife, the daughter of Shua, died. When Judah had finished mourning, he and his friend Hirah the Adullamite went up to his sheepshearers at Timnah."
+hebrew: "וַיִּרְבּוּ֙ הַיָּמִ֔ים וַתָּ֖מָת בַּת־ שׁ֣וּעַ אֵֽשֶׁת־ יְהוּדָ֑ה וַיִּנָּ֣חֶם יְהוּדָ֗ה וַיַּ֜עַל עַל־ גֹּֽזֲזֵ֤י צֹאנוֹ֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HIRAH|HIRAH]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHUA|SHUA]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic TIMNATH|TIMNATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H4191]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H7770]]"
+- "[[H0802H]]"
+- "[[H3063G]]"
+- "[[H5162G]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H1494]]"
+- "[[H6629G]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H2437]]"
+- "[[H7453]]"
+- "[[H5726]]"
+- "[[H8553G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 38:12**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
+<small><sub>**BSB:**</sub></small>
+After a long time Judah’s wife, the daughter of Shua, died. When Judah had finished mourning, he and his friend Hirah the Adullamite went up to his sheepshearers at Timnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7235A\|יִּרְבּוּ֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9001\|וַ]][[H4191\|תָּ֖מָת]] [[H1323G\|בַּת]][[H9014\|־]] [[H7770\|שׁ֣וּעַ]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H5162G\|יִּנָּ֣חֶם]] [[H3063G\|יְהוּדָ֗ה]] [[H9001\|וַ]][[H5927G\|יַּ֜עַל]] [[H5921A\|עַל]][[H9014\|־]] [[H1494\|גֹּֽזֲזֵ֤י]] [[H6629G\|צֹאנ]][[H9023\|וֹ֙]] [[H1931\|ה֗וּא]] [[H9002\|וְ]][[H2437\|חִירָ֛ה]] [[H7453\|רֵעֵ֥]][[H9023\|הוּ]] [[H9009\|הָ]][[H5726\|עֲדֻלָּמִ֖י]] [[H8553G\|תִּמְנָֽתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HIRAH|HIRAH]] • [[topic JUDAH|JUDAH]] • [[topic SHEEP|SHEEP]] • [[topic SHUA|SHUA]] • [[topic TAMAR|TAMAR]] • [[topic TIMNATH|TIMNATH]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.11|<< Genesis 38:11]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.13|Genesis 38:13 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they increased  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7235A\|יִּרְבּוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֔ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|תָּ֖מָת]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.mot<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Shua  |**<big>&#8207;[[H7770\|שׁ֣וּעַ]]&#8207; </big>**| Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] wife of  |**<big>&#8207;[[H0802H\|אֵֽשֶׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.shet-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֑ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he was comforted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5162G\|יִּנָּ֣חֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Na.chem<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֗ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֜עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] shearers of  |**<big>&#8207;[[H1494\|גֹּֽזֲזֵ֤י]]&#8207; </big>**| go.za.Zei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sheep his  |**<big>&#8207;[[H6629G\|צֹאנ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| tzo.N<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Hirah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2437\|חִירָ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chi.Rah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| friend his  |**<big>&#8207;[[H7453\|רֵעֵ֥]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Adullamite  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5726\|עֲדֻלָּמִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.du.la.Mi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Timnah towards  |**<big>&#8207;[[H8553G\|תִּמְנָֽתָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tim.Na.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.11|<< Genesis 38:11]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.13|Genesis 38:13 >>]]</td></tr></table>
+
+

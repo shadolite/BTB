@@ -1,0 +1,79 @@
+---
+title: Genesis 28:19
+type: Verse
+kjv: "And he called the name of that place Bethel: but the name of that city was called Luz at the first."
+bsb: "and he called that place Bethel, though previously the city had been named Luz."
+hebrew: "וַיִּקְרָ֛א אֶת־ שֵֽׁם־ הַמָּק֥וֹם הַה֖וּא בֵּֽית־ אֵ֑ל וְאוּלָ֛ם ל֥וּז שֵׁם־ הָעִ֖יר לָרִאשֹׁנָֽה׃"
+pericope: "[[Gen.28.18 The Stone of Bethel|The Stone of Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H1008G]]"
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H3870H]]"
+- "[[H5892B]]"
+- "[[H9005]]"
+- "[[H7223G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 28:19**<big><big>[[Gen.28.18 The Stone of Bethel|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And he called the name of that place Bethel: but the name of that city [was called] Luz at the first.
+<small><sub>**BSB:**</sub></small>
+and he called that place Bethel, though previously the city had been named Luz.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֛א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵֽׁם]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֑ל]] [[H9002\|וְ]][[H0199\|אוּלָ֛ם]] [[H3870H\|ל֥וּז]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9005\|לָ]][[H7223G\|רִאשֹׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic JACOB|JACOB]] • [[topic RELIGION|RELIGION]] • [[topic STONES|STONES]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.18|<< Genesis 28:18]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.20|Genesis 28:20 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֛א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵֽׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the place  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4725\|מָּק֥וֹם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Beth-  |**<big>&#8207;[[H1008G\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| -el  |**<big>&#8207;[[H1008G\|אֵ֑ל]]&#8207; </big>**| 'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and but  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0199\|אוּלָ֛ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Luz  |**<big>&#8207;[[H3870H\|ל֥וּז]]&#8207; </big>**| luz<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] name of  |**<big>&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֖יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to the former [time]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7223G\|רִאשֹׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.18|<< Genesis 28:18]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.20|Genesis 28:20 >>]]</td></tr></table>
+
+

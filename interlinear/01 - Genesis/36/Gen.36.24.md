@@ -1,0 +1,94 @@
+---
+title: Genesis 36:24
+type: Verse
+kjv: "And these are the children of Zibeon; both Ajah, and Anah: this was that Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father."
+bsb: "These are the sons of Zibeon: Aiah and Anah. (This is the Anah who found the hot springs in the wilderness as he was pasturing the donkeys of his father Zibeon.)"
+hebrew: "וְאֵ֥לֶּה בְנֵֽי־ צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה ה֣וּא עֲנָ֗ה אֲשֶׁ֨ר מָצָ֤א אֶת־ הַיֵּמִם֙ בַּמִּדְבָּ֔ר בִּרְעֹת֥וֹ אֶת־ הַחֲמֹרִ֖ים לְצִבְע֥וֹן אָבִֽיו׃"
+pericope: "[[Gen.36.20 The Descendants of Seir|The Descendants of Seir]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AJAH|AJAH]]"
+- "[[topic ANAH|ANAH]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic HOT SPRINGS|HOT SPRINGS]]"
+- "[[topic SEIR|SEIR]]"
+- "[[topic SPRING|SPRING]]"
+- "[[topic ZIBEON|ZIBEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6649H]]"
+- "[[H0345G]]"
+- "[[H6034]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3222]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H7462B]]"
+- "[[H9043]]"
+- "[[H2543]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 36:24**<big><big>[[Gen.36.20 The Descendants of Seir|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And these [are] the children of Zibeon; both Ajah, and Anah: this [was that] Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father.
+<small><sub>**BSB:**</sub></small>
+These are the sons of Zibeon: Aiah and Anah. (This is the Anah who found the hot springs in the wilderness as he was pasturing the donkeys of his father Zibeon.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֥לֶּה]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H6649H\|צִבְע֖וֹן]] [[H9002\|וְ]][[H0345G\|אַיָּ֣ה]] [[H9002\|וַ]][[H6034\|עֲנָ֑ה]] [[H1931\|ה֣וּא]] [[H6034\|עֲנָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H4672\|מָצָ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3222\|יֵּמִם֙]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H9003\|בִּ]][[H7462B\|רְעֹת֥]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמֹרִ֖ים]] [[H9005\|לְ]][[H6649H\|צִבְע֥וֹן]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AJAH|AJAH]] • [[topic ANAH|ANAH]] • [[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic HOT SPRINGS|HOT SPRINGS]] • [[topic SEIR|SEIR]] • [[topic SPRING|SPRING]] • [[topic ZIBEON|ZIBEON]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.36.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.23|<< Genesis 36:23]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.25|Genesis 36:25 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zibeon  |**<big>&#8207;[[H6649H\|צִבְע֖וֹן]]&#8207; </big>**| tziv.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Aiah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0345G\|אַיָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ai.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and Anah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6034\|עֲנָ֑ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] Anah  |**<big>&#8207;[[H6034\|עֲנָ֗ה]]&#8207; </big>**| 'a.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he found  |**<big>&#8207;[[H4672\|מָצָ֤א]]&#8207; </big>**| ma.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the hot springs  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3222\|יֵּמִם֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ye.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֔ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| when was pasturing he  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7462B\|רְעֹת֥]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> r.'o.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the donkeys  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2543\|חֲמֹרִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mo.Rim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of Zibeon  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6649H\|צִבְע֥וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> tziv.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| father his  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.23|<< Genesis 36:23]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.25|Genesis 36:25 >>]]</td></tr></table>
+
+

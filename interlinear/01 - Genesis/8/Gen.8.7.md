@@ -1,0 +1,75 @@
+---
+title: Genesis 8:7
+type: Verse
+kjv: "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
+bsb: "and sent out a raven. It kept flying back and forth until the waters had dried up from the earth."
+hebrew: "וַיְשַׁלַּ֖ח אֶת־ הָֽעֹרֵ֑ב וַיֵּצֵ֤א יָצוֹא֙ וָשׁ֔וֹב עַד־ יְבֹ֥שֶׁת הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ׃"
+pericope: "[[Gen.8.6 Noah Sends a Raven and a Dove|Noah Sends a Raven and a Dove]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic RAVEN|RAVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6158]]"
+- "[[H3318G]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H3001]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 8:7**<big><big>[[Gen.8.6 Noah Sends a Raven and a Dove|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth.
+<small><sub>**BSB:**</sub></small>
+and sent out a raven. It kept flying back and forth until the waters had dried up from the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יְשַׁלַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H6158\|עֹרֵ֑ב]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H3318G\|יָצוֹא֙]] [[H9002\|וָ]][[H7725G\|שׁ֔וֹב]] [[H5704\|עַד]][[H9014\|־]] [[H3001\|יְבֹ֥שֶׁת]] [[H9009\|הַ]][[H4325G\|מַּ֖יִם]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RAVEN|RAVEN]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.6|<< Genesis 8:6]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.8|Genesis 8:8 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and he sent out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יְשַׁלַּ֖ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.Lach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the raven  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H6158\|עֹרֵ֑ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and it went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| continuously \<to go out>  |**<big>&#8207;[[H3318G\|יָצוֹא֙]]&#8207; </big>**| ya.tzO'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and returned  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H7725G\|שׁ֔וֹב]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Shov<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dried up  |**<big>&#8207;[[H3001\|יְבֹ֥שֶׁת]]&#8207; </big>**| ye.Vo.shet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the waters  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מַּ֖יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֥ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.6|<< Genesis 8:6]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.8|Genesis 8:8 >>]]</td></tr></table>
+
+

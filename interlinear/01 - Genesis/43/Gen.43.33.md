@@ -1,0 +1,81 @@
+---
+title: Genesis 43:33
+type: Verse
+kjv: "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another."
+bsb: "They were seated before Joseph in order by age, from the firstborn to the youngest, and the men looked at one another in astonishment."
+hebrew: "וַיֵּשְׁב֣וּ לְפָנָ֔יו הַבְּכֹר֙ כִּבְכֹ֣רָת֔וֹ וְהַצָּעִ֖יר כִּצְעִרָת֑וֹ וַיִּתְמְה֥וּ הָאֲנָשִׁ֖ים אִ֥ישׁ אֶל־ רֵעֵֽהוּ׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H1060]]"
+- "[[H9004]]"
+- "[[H1062]]"
+- "[[H9002]]"
+- "[[H6810]]"
+- "[[H6812]]"
+- "[[H8539]]"
+- "[[H0582]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
+**Genesis 43:33**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
+<small><sub>**KJV:**</sub></small>
+And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.
+<small><sub>**BSB:**</sub></small>
+They were seated before Joseph in order by age, from the firstborn to the youngest, and the men looked at one another in astonishment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשְׁב֣וּ]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H9009\|הַ]][[H1060\|בְּכֹר֙]] [[H9004\|כִּ]][[H1062\|בְכֹ֣רָת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H6810\|צָּעִ֖יר]] [[H9004\|כִּ]][[H6812\|צְעִרָת֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H8539\|יִּתְמְה֥וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H0376I\|אִ֥ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H7453\|רֵעֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic DISSEMBLING|DISSEMBLING]] • [[topic FEASTS|FEASTS]] • [[topic HOSPITALITY|HOSPITALITY]]</small>
+<small><sub>**LXX:**</sub></small>
+[[LXX.Gen.43.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.32|<< Genesis 43:32]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.34|Genesis 43:34 >>]]</td></tr></table>
+
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
+| - | - | - | - |
+| and they sat down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּשְׁב֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the firstborn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1060\|בְּכֹר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to birthright his  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1062\|בְכֹ֣רָת֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> v.Kho.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and the young [brother]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6810\|צָּעִ֖יר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> tza.'Ir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| according to youth his  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H6812\|צְעִרָת֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> tz.'i.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and they looked in astonishment  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8539\|יִּתְמְה֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.me.Hu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the men  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| each  |**<big>&#8207;[[H0376I\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| neighbor his  |**<big>&#8207;[[H7453\|רֵעֵֽ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+[[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.32|<< Genesis 43:32]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.34|Genesis 43:34 >>]]</td></tr></table>
+
+
